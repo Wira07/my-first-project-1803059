@@ -30,7 +30,7 @@ class MainPage extends StatelessWidget {
         title: Text('IDX Demo', style: GoogleFonts.poppins(fontSize: 20, fontWeight: FontWeight.bold),
       ),
       body: const Center(
-        child: Text('Wira Sukma Saputra'),
+        child: Text('Fkom Uniku Jaya'),
       ),
     );
   }
